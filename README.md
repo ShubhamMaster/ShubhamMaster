@@ -2,59 +2,36 @@
 <p align="center">Cybersecurity Intern • System Designer • Web Developer</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Secure+System+Architect;Cybersecurity+Engineer;Scalable+Design+Thinker&center=true&width=420&height=40">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Engineer;System+Designer;Secure+Architecture&center=true&width=420&height=35">
 </p>
 
 ---
 
-## About Me
+## About
 
-Cybersecurity Intern with a strong focus on securing real-world systems and designing scalable architectures.  
-I combine **security + system design thinking** to build efficient and robust applications.
+Cybersecurity Intern focused on securing real-world systems and designing scalable architectures.  
+I work at the intersection of **security, performance, and system design**.
 
 ---
 
-## Core Skills
+## Skills
 
-### Cybersecurity
-- Web Security (OWASP Top 10)  
-- Vulnerability Assessment & Penetration Testing  
-- Authentication & Session Security  
-- Bug Hunting  
-
-### System Design
-- Scalable Architecture  
-- API Design  
-- Database Design & Optimization  
-- Performance Engineering  
-
-### Development
-- HTML, CSS, JavaScript  
-- Python, PHP  
+- **Cybersecurity:** Web Security, VAPT, Bug Hunting  
+- **System Design:** Scalable Architecture, API Design, Database Design  
+- **Development:** HTML, CSS, JavaScript, Python, PHP  
+- **Tools:** Burp Suite, Nmap, Wireshark, Linux, Git  
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,linux,git" />
 </p>
 
 ---
 
-## Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Burp%20Suite-444444?style=flat-square" />
-  <img src="https://img.shields.io/badge/Nmap-555555?style=flat-square" />
-  <img src="https://img.shields.io/badge/Wireshark-666666?style=flat-square" />
-  <img src="https://img.shields.io/badge/Linux-777777?style=flat-square" />
-  <img src="https://img.shields.io/badge/Git-888888?style=flat-square" />
-</p>
-
----
-
-## GitHub Stats
+## GitHub
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true" />
@@ -65,9 +42,9 @@ I combine **security + system design thinking** to build efficient and robust ap
 
 ## Projects
 
-- ERP Security Testing — Identified and reported vulnerabilities  
-- Cyber Cafe Web Application — Full-stack system  
-- Smart Global Pest Alert Network — NASA Hackathon project  
+- ERP Security Testing  
+- Cyber Cafe Web Application  
+- Smart Global Pest Alert Network  
 
 ---
 
@@ -81,6 +58,4 @@ I combine **security + system design thinking** to build efficient and robust ap
 
 ---
 
-<p align="center">
-  <i>Security • Design • Performance</i>
-</p>
+<p align="center"><sub>Built with clarity • Designed for impact</sub></p>
