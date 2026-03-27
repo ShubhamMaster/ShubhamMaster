@@ -1,63 +1,36 @@
 <h1 align="center">Shubham Dighe</h1>
-<p align="center">
-  Cybersecurity Intern • System Designer • Web Developer
-</p>
+<p align="center">Cybersecurity Intern • System Designer • Web Developer</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Secure+System+Architect;Cybersecurity+Engineer;Scalable+Design+Thinker&center=true&width=500&height=45">
-</p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-2C2C2C?style=for-the-badge&logo=hackthebox&logoColor=silver"/>
-  <img src="https://img.shields.io/badge/System%20Design-3A3A3A?style=for-the-badge&logo=icloud&logoColor=silver"/>
-  <img src="https://img.shields.io/badge/Web%20Development-4A4A4A?style=for-the-badge&logo=code&logoColor=silver"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Secure+System+Architect;Cybersecurity+Engineer;Scalable+Design+Thinker&center=true&width=420&height=40">
 </p>
 
 ---
 
-## Profile
+## About Me
 
-Name: Shubham Dighe  
-Role: Cybersecurity Intern | System Designer  
-
-Focus:
-- Secure Architecture  
-- Scalable Systems  
-- Web Security & VAPT  
-
-Approach:
-- Clean Design  
-- Performance First  
-- Real-World Impact  
+Cybersecurity Intern with a strong focus on securing real-world systems and designing scalable architectures.  
+I combine **security + system design thinking** to build efficient and robust applications.
 
 ---
 
-## Core Expertise
-
-<table>
-<tr>
-<td width="50%">
+## Core Skills
 
 ### Cybersecurity
-- Web Security (OWASP Top 10)
-- Vulnerability Assessment & Penetration Testing
-- Authentication & Session Security
-- Bug Hunting & Reporting
-
-</td>
-<td width="50%">
+- Web Security (OWASP Top 10)  
+- Vulnerability Assessment & Penetration Testing  
+- Authentication & Session Security  
+- Bug Hunting  
 
 ### System Design
-- Scalable Architecture Design
-- REST API Design
-- Database Structuring & Optimization
-- Performance Optimization
+- Scalable Architecture  
+- API Design  
+- Database Design & Optimization  
+- Performance Engineering  
 
-</td>
-</tr>
-</table>
+### Development
+- HTML, CSS, JavaScript  
+- Python, PHP  
 
 ---
 
@@ -72,58 +45,42 @@ Approach:
 ## Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Burp%20Suite-1E1E1E?style=for-the-badge&logo=burpsuite&logoColor=silver"/>
-  <img src="https://img.shields.io/badge/Nmap-2A2A2A?style=for-the-badge&logo=gnubash&logoColor=silver"/>
-  <img src="https://img.shields.io/badge/Wireshark-3A3A3A?style=for-the-badge&logo=wireshark&logoColor=silver"/>
-  <img src="https://img.shields.io/badge/Linux-4A4A4A?style=for-the-badge&logo=linux&logoColor=silver"/>
-  <img src="https://img.shields.io/badge/Git-5A5A5A?style=for-the-badge&logo=git&logoColor=silver"/>
+  <img src="https://img.shields.io/badge/Burp%20Suite-444444?style=flat-square" />
+  <img src="https://img.shields.io/badge/Nmap-555555?style=flat-square" />
+  <img src="https://img.shields.io/badge/Wireshark-666666?style=flat-square" />
+  <img src="https://img.shields.io/badge/Linux-777777?style=flat-square" />
+  <img src="https://img.shields.io/badge/Git-888888?style=flat-square" />
 </p>
 
 ---
 
-## GitHub Insights
+## GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&title_color=silver&icon_color=silver&text_color=9f9f9f&bg_color=0d1117" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&title_color=silver&text_color=9f9f9f&bg_color=0d1117" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true" />
 </p>
 
 ---
 
-## Featured Projects
+## Projects
 
-- ERP Security Testing — Vulnerability discovery & reporting  
+- ERP Security Testing — Identified and reported vulnerabilities  
 - Cyber Cafe Web Application — Full-stack system  
 - Smart Global Pest Alert Network — NASA Hackathon project  
-
----
-
-## Design Philosophy
-
-Security + Simplicity = Powerful Systems  
-
-- Minimal yet powerful design  
-- Performance over complexity  
-- Security at every layer  
 
 ---
 
 ## Contact
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-2C2C2C?style=for-the-badge&logo=gmail&logoColor=silver"/>
-  </a>
-  <a href="https://linkedin.com/in/your-link">
-    <img src="https://img.shields.io/badge/LinkedIn-3A3A3A?style=for-the-badge&logo=linkedin&logoColor=silver"/>
-  </a>
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-4A4A4A?style=for-the-badge&logo=github&logoColor=silver"/>
-  </a>
+  <a href="mailto:your-email@example.com">Email</a> •
+  <a href="https://linkedin.com/in/your-link">LinkedIn</a> •
+  <a href="https://github.com/yourusername">GitHub</a>
 </p>
 
 ---
 
 <p align="center">
-  <sub>Engineered with precision • Designed for impact</sub>
+  <i>Security • Design • Performance</i>
 </p>
