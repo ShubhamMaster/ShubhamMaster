@@ -1,61 +1,46 @@
-<h1 align="center">Shubham Dighe</h1>
-<p align="center">Cybersecurity Intern • System Designer • Web Developer</p>
+# 👋 Hi, I'm Shubham Dighe
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Engineer;System+Designer;Secure+Architecture&center=true&width=420&height=35">
-</p>
+### 🚀 System Designer • Web Developer • Cybersecurity Enthusiast
 
----
-
-## About
-
-Cybersecurity Intern focused on securing real-world systems and designing scalable architectures.  
-I work at the intersection of **security, performance, and system design**.
+I build structured digital systems that are practical, scalable, and impactful.  
+Currently working on improving real-world platforms and exploring secure system design.
 
 ---
 
-## Skills
-
-- **Cybersecurity:** Web Security, VAPT, Bug Hunting  
-- **System Design:** Scalable Architecture, API Design, Database Design  
-- **Development:** HTML, CSS, JavaScript, Python, PHP  
-- **Tools:** Burp Suite, Nmap, Wireshark, Linux, Git  
+## 🧠 Focus
+- ⚙️ System Design & Architecture  
+- 🌐 Full Stack Web Development  
+- 🔐 Cybersecurity & Vulnerability Analysis  
 
 ---
 
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,linux,git" />
-</p>
+## 🌐 Portfolio
+🔗 https://shubham.civoranexus.com
 
 ---
 
-## GitHub
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true" />
-</p>
+## 🛠️ Tech Stack
+HTML • CSS • JavaScript • PHP • MySQL • Bootstrap  
+Git • GitHub • REST APIs  
 
 ---
 
-## Projects
-
-- ERP Security Testing  
-- Cyber Cafe Web Application  
-- Smart Global Pest Alert Network  
-
----
-
-## Contact
-
-<p align="center">
-  <a href="mailto:your-email@example.com">Email</a> •
-  <a href="https://linkedin.com/in/your-link">LinkedIn</a> •
-  <a href="https://github.com/yourusername">GitHub</a>
-</p>
+## 🚀 Work Highlights
+- 🛡️ Cybersecurity Intern — Improved college ERP by identifying vulnerabilities  
+- 🌍 Built Smart Global Pest Alert Network (NASA Space Apps Hackathon)  
+- 🧑‍💻 Led web development projects with real user impact  
 
 ---
 
-<p align="center"><sub>Built with clarity • Designed for impact</sub></p>
+## 📊 GitHub Stats
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
+
+## 🔥 Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+
+---
+
+## ⚡ Philosophy
+> Design systems. Solve real problems. Keep it clean.
