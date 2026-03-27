@@ -33,12 +33,12 @@ Git • GitHub • REST APIs
 ---
 
 ## 📊 GitHub Stats
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShubhamMaster&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🔥 Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ShubhamMaster&theme=tokyonight&hide_border=true)
 
 ---
 
