@@ -33,8 +33,8 @@ Git • GitHub • REST APIs
 ---
 
 ## 📊 GitHub Stats
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShubhamMaster&show_icons=true&theme=tokyonight&hide_border=true)
-
+[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShubhamMaster&show_icons=true&theme=tokyonight&hide_border=true)
+](https://github-readme-stats-git-masterrstaa.vercel.app/api?username=ShubhamMaster&show_icons=true&theme=tokyonight)
 ---
 
 ## 🔥 Streak
