@@ -3,7 +3,7 @@
 <h3 align="center">🚀 System Designer • Full Stack Developer • Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?" lines=Building+Scalable+Systems;Securing+Digital+Platforms;Full+Stack+Developer;Cybersecurity+Explorer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Scalable+Systems;Securing+Digital+Platforms;Full+Stack+Developer;Cybersecurity+Explorer&center=true&width=500&height=45">
 </p>
 
 ---
