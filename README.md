@@ -1,9 +1,15 @@
-<!-- HEADER -->
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:000000&height=200&section=header&text=Shubham%20Dighe&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
 <h1 align="center">👋 Hi, I'm Shubham Dighe</h1>
 <h3 align="center">🚀 System Designer • Full Stack Developer • Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Scalable+Systems;Securing+Digital+Platforms;Full+Stack+Developer;Cybersecurity+Explorer&center=true&width=500&height=45">
+  <img src="https://img.shields.io/badge/System%20Design-%F0%9F%9A%80-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-%F0%9F%94%90-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Full%20Stack-%F0%9F%8C%90-green?style=for-the-badge"/>
 </p>
 
 ---
@@ -49,7 +55,7 @@
 
 🧑‍💻 **Web Development Lead**  
 → Led impactful projects with real users  
- 
+
 ---
 
 ## 📊 GitHub Stats
