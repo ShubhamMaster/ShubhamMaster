@@ -1,96 +1,56 @@
-<!-- HEADER BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:000000&height=200&section=header&text=Shubham%20Dighe&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-</p>
+<div align="center">
 
-<h1 align="center">👋 Hi, I'm Shubham Dighe</h1>
-<h3 align="center">🚀 System Designer • Full Stack Developer • Cybersecurity Enthusiast</h3>
+# Shubham Dighe
+### Full-Stack Engineer & Systems Designer
 
-<p align="center">
-  <img src="https://img.shields.io/badge/System%20Design-%F0%9F%9A%80-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-%F0%9F%94%90-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Full%20Stack-%F0%9F%8C%90-green?style=for-the-badge"/>
-</p>
+Building scalable backends, resilient system architectures, and security-hardened applications.
 
----
+[Portfolio](https://shubham.civoranexus.com) • [Email](mailto:shubhamdighe45@gmail.com) • [GitHub](https://github.com/ShubhamMaster)
 
-## 🚀 About Me
-💡 I design and build **structured, scalable, and secure digital systems**  
-🔐 Passionate about **Cybersecurity & Vulnerability Research**  
-🌐 Focused on solving **real-world problems through technology**  
+<br />
 
----
+<!-- GITHUB METRICS (TOP) -->
+<img src="https://github-readme-stats.vercel.app/api?username=ShubhamMaster&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com/?user=ShubhamMaster&theme=dark&hide_border=true" height="150" alt="GitHub Streak" />
 
-## 🧠 Core Focus
-<p align="center">
-  ⚙️ System Design & Architecture &nbsp; • &nbsp;
-  🌐 Full Stack Development &nbsp; • &nbsp;
-  🔐 Cybersecurity & Ethical Hacking
-</p>
+
+<br /><br />
+
+<!-- GREEN CONTRIBUTION GRAPH -->
+<img src="https://ghchart.rshah.org/2ea44f/ShubhamMaster" alt="Shubham's Contribution Chart" width="100%" />
+
+</div>
 
 ---
 
-## 🌐 Portfolio
-<p align="center">
-  <a href="https://shubham.civoranexus.com" target="_blank">
-    <img src="https://img.shields.io/badge/Visit Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-</p>
+### Overview
+
+- **Architecture & Full-Stack Development**: Designing performant backend services, RESTful APIs, and responsive client interfaces.
+- **Cybersecurity & Vulnerability Assessment**: Auditing enterprise systems, hardening application pipelines, and addressing security flaws.
+- **Production Experience**: Architected and deployed production platforms supporting real-world university and enterprise operations.
 
 ---
 
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,git,github" />
-</p>
+### Core Competencies
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | JavaScript, TypeScript, Python, PHP, SQL |
+| **Backend & Architecture** | Node.js, Express, RESTful APIs, Microservices, Caching |
+| **Databases & Storage** | PostgreSQL, MySQL, Redis |
+| **Cloud & Deployment** | Heroku, Docker, Git, CI/CD Pipelines |
+| **Security & Auditing** | Web Application Security, Penetration Testing, OWASP Top 10 |
 
 ---
 
-## 🚀 Work Highlights
-✨ **Cybersecurity Intern**  
-→ Improved college ERP by identifying & reporting vulnerabilities  
+### Selected Highlights
 
-🌍 **NASA Space Apps Hackathon Project**  
-→ Built *Smart Global Pest Alert Network*  
-
-🧑‍💻 **Web Development Lead**  
-→ Led impactful projects with real users  
+- **University Internship & ERP Management System**: Architected end-to-end portal featuring multi-tier RBAC, automated onboarding, document management, and automated notification pipelines.
+- **NASA Space Apps Challenge**: Engineered the *Smart Global Pest Alert Network* to process environmental telemetry for predictive agricultural alerts.
+- **Security Research**: Conducted vulnerability assessments across institutional web applications, remediating authorization and data integrity flaws.
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShubhamMaster&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=ShubhamMaster&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## ⚡ Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamMaster&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🧩 Fun Fact
-💭 I don’t just write code — I design **systems that solve problems efficiently**
-
----
-
-## ⚡ Philosophy
-<p align="center">
-  <b>“Design systems. Solve real problems. Keep it clean.”</b>
-</p>
-
----
-
-## 🤝 Connect With Me
-<p align="center">
-  <a href="https://shubham.civoranexus.com">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+  <sub>Designed with a focus on simplicity, security, and scalability.</sub>
+</div>
