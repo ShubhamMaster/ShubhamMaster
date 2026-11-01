@@ -7,7 +7,7 @@ Secure, scalable web and mobile platforms — Node.js APIs, React, Flutter/Andro
 
 [Portfolio](https://shubham.civoranexus.com) · [LinkedIn](https://www.linkedin.com/in/shubhamdighe/) · [Devpost](https://devpost.com/shubhamdighe) · [Peerlist](https://peerlist.io/shubhamdighe) · [Wellfound](https://wellfound.com/u/shubhamdighe) · [Instagram](https://www.instagram.com/shubhamdighe.in/) · [Email](mailto:shubhamdighe45@gmail.com)
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShubhamMaster&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="GitHub stats for Shubham Dighe" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=ShubhamMaster&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="GitHub stats for Shubham Dighe" /> -->
 <img src="https://streak-stats.demolab.com/?user=ShubhamMaster&theme=dark&hide_border=true&v=2" height="150" alt="GitHub streak for Shubham Dighe" />
 
 <img src="https://ghchart.rshah.org/2ea44f/ShubhamMaster" alt="Contribution chart of Shubham Dighe" width="100%" />
